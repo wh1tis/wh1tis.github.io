@@ -1,3 +1,6 @@
+---
 layout: page
 title: "TEST"
-permalink: /test
+permalink: /test/
+---
+blah blah blah
